@@ -1,7 +1,7 @@
-# Documento de Requerimientos de software *Nearby B*
+## Documento de Requerimientos de software *Nearby B*
 
  <div display:flex>
-     
+                       
     
 <img aling="right" src="https://github.com/MattMT/Nearby-B_DDI/blob/main/Frontend/Logos/Nearby-B%20(Logo).png" alt="Logotipo_App" width="300px" >
 
@@ -10,8 +10,12 @@
 </div
 
 
+![Organigrama Soft Codeeee](https://github.com/MattMT/Nearby-B_DDI/assets/84816148/ae195769-dc21-43a6-8ed5-d6d897796c61)
 
- 
+
+           
+     
+        
 ## Historial de Versiones
 
 | Fecha      | Versión  |  Autor   | Organización | Descripción |
@@ -34,13 +38,13 @@
 | Fabiola Bautista Jaquín   | Documentador  |   Soft Code  |16/06/2023   |  😉 |
 | Gabriel Guzmán García   | Líder / Desarrollador Front-End  | Soft Code  |16/06/2023   | 😉 |
 | Uriel Maldonado Cortéz   | Desarrollador Back-End  | Soft Code |16/06/2023  | 😉 |
-|Mateo Maldonado Tolentino   | Analista   | Soft Code |16/06/2023    | 😉  |
+|Mateo Maldonado Tolentino   | Administrador de Base de Datos   | Soft Code |16/06/2023    | 😉  |
 
 
 
 ## 1. Propósito 
 
-El propósito de Nearby B es ofrecer a los clientes de diferentes bares invitaciones y promociones personalizadas en sus dispositivos smartwatch, para que puedan estar informados sobre las últimas ofertas y eventos en los establecimientos.  Anteriormente, los clientes tenían dificultades para acceder rápidamente a esta información relevante, lo que limitaba su capacidad de aprovechar las promociones y disfrutar de experiencias enriquecedoras. La aplicación se enfoca en mejorar la experiencia del cliente, aumentar su participación, fomentar interacciones sociales y personalizar las ofertas. Nearby B se desarrolla para abordar el problema de la falta de información actualizada y personalizada sobre ofertas y eventos en los bares. Permite a los clientes estar al tanto de las ofertas relevantes para ellos, lo que mejora su experiencia al visitar los establecimientos y les brinda la oportunidad de aprovechar las promociones especiales. Además, la aplicación fomenta la interacción social al permitir que los usuarios compartan y recomienden sus experiencias en los bares participantes.
+Near B tiene como propósito ofrecer a los usuarios invitaciones y promociones personalizadas en sus dispositivos smartwatch, mejorando la experiencia del cliente al proporcionar información actualizada y relevante sobre ofertas y eventos en bares. La aplicación busca aumentar la participación de los clientes, fomentar interacciones sociales y personalizar las ofertas, abordando así la falta de información previa y brindando oportunidades para aprovechar promociones especiales. Además, promueve la interacción social al permitir a los usuarios compartir sus experiencias en los bares.
 
 
 
@@ -62,31 +66,30 @@ Nearby B ayuda a resolver el problema de la falta de información y promoción e
 -
 -
 -
--
-
-
-
 
 
 ## 4. Funcionalidades del producto
 
-1. Compatibilidad con sistemas operativos: Nearby B es compatible con los principales sistemas operativos de smartwatches, lo que amplía su accesibilidad y alcance a un mayor número de usuarios.
-2. Interfaz intuitiva y fácil de usar: La aplicación cuenta con una interfaz optimizada para pantallas pequeñas, lo que facilita la navegación y el uso sin complicaciones.
-3. Calendario de eventos y promociones: Los usuarios pueden acceder a un calendario que muestra los eventos y promociones disponibles en los bares, permitiéndoles planificar sus visitas.
-4. Uso de geolocalización: Nearby B utiliza la geolocalización para mostrar los bares cercanos a la ubicación del usuario, facilitando la búsqueda de opciones cercanas.
-5. Envío de invitaciones personalizadas: La aplicación permite enviar invitaciones personalizadas a clientes seleccionados, brindándoles promociones exclusivas y relevantes.
-6. Gestión de invitaciones y confirmaciones de asistencia: Los usuarios pueden llevar un registro de las invitaciones enviadas y recibir confirmaciones de asistencia, lo que facilita la organización de su participación en eventos y promociones.
-7. Notificaciones sobre eventos próximos: Los usuarios reciben notificaciones sobre eventos próximos en los bares seleccionados, lo que les permite planificar su participación con anticipación.
-8. Notificaciones instantáneas: La aplicación envía notificaciones instantáneas para recordar a los clientes sobre eventos especiales y promociones en tiempo real.
-9. Consulta de información sobre el menú y las bebidas: Los usuarios pueden obtener información detallada sobre el menú y las bebidas disponibles en los bares.
-10. Capacidad de compartir promociones y eventos especiales con amigos: Los usuarios pueden compartir promociones y eventos con amigos, aumentando la visibilidad y la participación en los establecimientos.
-11. Acceso a playlists o música en vivo: Nearby B brinda acceso a las playlists o música en vivo que se ofrece en los bares, enriqueciendo la experiencia de los clientes.
-12. Información sobre el ambiente y estilo del bar: Los usuarios pueden obtener información sobre el ambiente y el estilo de los bares para tomar decisiones informadas sobre qué lugares visitar.
-13. Recomendaciones de bares similares o relacionados: La aplicación proporciona recomendaciones de bares similares o relacionados en la zona, ampliando las opciones de los usuarios.
-14. Consulta de opiniones y reseñas de otros clientes: Los usuarios pueden consultar opiniones y reseñas de otros clientes sobre los bares, obteniendo una visión más completa de la experiencia de otros.
-15. Capacidad de calificar y comentar sobre la experiencia en el bar: Los usuarios pueden calificar y comentar sobre su experiencia en los bares, fomentando la interacción y proporcionando retroalimentación valiosa.
+Las funcionalidades del producto de Nearby B están estratégicamente diseñadas para transformar la manera en que los usuarios interactúan con los establecimientos y eventos locales. Cada funcionalidad está cuidadosamente concebida para abordar necesidades específicas de los usuarios y del mercado, contribuyendo así a la creación de una experiencia integral y enriquecedora.
+
+1. Compatibilidad con sistemas operativos.
+2. Interfaz intuitiva y fácil de usar.
+3. Calendario de eventos y promociones.
+4. Uso de geolocalización.
+5. Envío de invitaciones personalizadas.
+6. Gestión de invitaciones y confirmaciones de asistencia.
+7. Notificaciones sobre eventos próximos.
+8. Notificaciones instantáneas.
+9. Consulta de información sobre el menú y las bebidas.
+10. Capacidad de compartir promociones y eventos especiales con amigos.
+11. Acceso a playlists o música en vivo.
+12. Información sobre el ambiente y estilo del bar.
+13. Recomendaciones de bares similares o relacionados.
+14. Consulta de opiniones y reseñas de otros clientes.
+15. Capacidad de calificar y comentar sobre la experiencia en el bar.
 
 Estas funcionalidades contribuyen a mejorar la experiencia del cliente al brindarles información relevante, opciones personalizadas y facilidad de uso. Además, promuevenla interacción social, la participación activa y la toma de decisiones informadas.
+
 
 
 ## 5. Clases y características de usuario
@@ -236,6 +239,7 @@ A continuación se muestran los requerimientos funcionales:
 
 
 
+
 ## 8. Requerimientos no funcionales 
 
 1. Rendimiento: La aplicación debe ser eficiente y rápida en términos de tiempo de carga y respuesta. Los usuarios deben poder acceder a la información y funcionalidades de forma ágil, sin experimentar retrasos significativos.
@@ -263,3 +267,26 @@ A continuación se muestran los requerimientos funcionales:
 9. Cooperación con los Bares Participantes: La aplicación debe establecer una relación de cooperación y colaboración con los bares participantes, brindándoles soporte y asistencia en la promoción de sus eventos y ofertas. Los bares también deben cumplir con las políticas y directrices establecidas por la aplicación.
 
 Estas reglas de negocio establecen los lineamientos y requisitos para el uso adecuado y responsable de la aplicación Nearby B, tanto para los usuarios como para los bares participantes.
+
+
+## Arquitectura de Software
+
+![Arquitectura de Software (1)](https://github.com/MattMT/Nearby-B_DDI/assets/84816148/e5339394-dab9-4bc6-a62d-f0f37b56f332)
+
+
+## Diagrama Entidad Relación
+
+
+![WhatsApp Image 2023-08-10 at 13 17 40](https://github.com/MattMT/Nearby-B_DDI/assets/84816148/e9c15437-c7e4-4660-b976-2ae84d255364)
+
+
+
+ 
+## Evaluación del equipo
+
+![FODA SOFT CODE](https://github.com/MattMT/Nearby-B_DDI/assets/84816148/ac53a726-27c1-4b5d-bbf9-c7d424a3bafd)
+
+
+
+Conclusión:
+El equipo de trabajo del proyecto "Nearby B" presenta una combinación de fortalezas en términos de experiencia diversificada y habilidades técnicas, así como oportunidades en un mercado en crecimiento y posibilidades de innovación tecnológica. Sin embargo, se deben abordar las debilidades en términos de limitaciones de tiempo y experiencia conjunta, así como las amenazas relacionadas con la competencia y los cambios tecnológicos. Con un enfoque en la colaboración efectiva, la comunicación y la adaptación ágil, el equipo tiene el potencial de superar los desafíos y lograr el éxito en la realización del proyecto "Nearby B".
